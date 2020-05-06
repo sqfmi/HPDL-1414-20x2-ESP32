@@ -1,5 +1,7 @@
 # HPDL-1414-20x2-ESP32
-20x2 Character Display with HPDL1414 modules &amp; ESP32
+- 20x2 Character Display with HPDL1414 modules &amp; ESP32
+- PCB Structure
+
 ![HPDL1414-ESP32](images/HPDL1414-ESP32.jpg)
 ![PCB](images/HPDL1414-ESP32-PCB.jpg)
 
