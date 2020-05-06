@@ -4,7 +4,7 @@
 ## Bill of Materials
 | Component           | Quantity | Link                                             |
 |---------------------|----------|--------------------------------------------------|
-| HPDL1414            | 20       | https://www.aliexpress.com/item/32604004029.html |
+| HPDL1414            | 10       | https://www.aliexpress.com/item/32604004029.html |
 | ESP32-WROOM-32D     | 1        |                                                  |
 | CP2104              | 1        |                                                  |
 | AMS1117-3.3V        | 1        |                                                  |
