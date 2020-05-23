@@ -20,3 +20,6 @@
 | Micro USB Connector | 1        |                                                  |
 | S8050 SOT-23        | 2        |                                                  |
 | 10K 0805            | 4        |                                                  |
+
+## License
+Designed by SQFMI. Creative Commons Attribution/Share-Alike. See LICENSE for additional information.
