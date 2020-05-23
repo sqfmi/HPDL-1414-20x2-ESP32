@@ -2,6 +2,9 @@
 - 20x2 Character Display with HPDL1414 modules &amp; ESP32
 - PCB Structure
 - Arduino Library 👉 https://github.com/sqfmi/HPDL1414-74HC595-Arduino
+- OSHWA Certified [**US000625**](https://certification.oshwa.org/us000625.html)
+
+![OSHWA US000625](images/OSHWA-certified.svg)
 
 ![HPDL1414-ESP32](images/HPDL1414-ESP32.jpg)
 ![PCB](images/HPDL1414-ESP32-PCB.jpg)
